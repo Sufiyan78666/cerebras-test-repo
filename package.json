@@ -1,0 +1,12 @@
+{
+  "name": "cerebras-test-repo",
+  "version": "1.0.0",
+  "description": "Test repository for Cerebras AI automated testing",
+  "main": "calculator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["testing", "ai", "cerebras"],
+  "author": "Sufiyan78666",
+  "license": "MIT"
+}
